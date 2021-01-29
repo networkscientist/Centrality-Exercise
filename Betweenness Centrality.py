@@ -4,7 +4,7 @@ import geopandas as gpd
 import networkx as nx
 
 # General workspace settings
-MY_WORKSPACE: str = "/home/sirian/Applications/Scripts/python/networkExercise/exercise"
+MY_WORKSPACE: str = "~/Applications/Scripts/python/networkExercise/exercise"
 
 # Input data: Take the shp files of the flooded and non-flooded edges & nodes.
 NODES_FILE_TOTAL: str = MY_WORKSPACE + "/zh_nodes.shp"
