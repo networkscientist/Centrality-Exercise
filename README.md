@@ -1,0 +1,2 @@
+# Centrality-Exercise
+This repository contains the code needed to complete the exercise in the UniBE course 'Modeling Complex Networks with Python'. Original work has been done by [Andreas Paul Zischg](https://github.com/zischg). Code he provided in the repository [2020-network-analysis](https://github.com/unibe-geodata-modelling/2020-network-analysis) has been used and extended in this repository.
